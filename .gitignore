@@ -1,0 +1,9 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Optional: Ignore QR image outputs and logs
+generated_qr/
+url.txt
